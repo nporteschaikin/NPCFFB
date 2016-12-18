@@ -1,5 +1,7 @@
 # NPCFFB
 
+A living document outlining my fantasy football league.
+
 ## Table of Contents
 
 1. [Payout](#payout)
