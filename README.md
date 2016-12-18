@@ -4,9 +4,25 @@ A living document outlining my fantasy football league.
 
 ## Table of Contents
 
+1. [Participants](#participants)
 1. [Payout](#payout)
 1. [Draft Order](#draft-order)
 1. [Keepers](#keepers)
+
+## Participants
+
+- Jordan Brickman ([Facebook](facebook.com/jabrickman914))
+- Morris Bronstein ([Facebook](facebook.com/morris.bronstein))
+- Andrew Camacho  ([Facebook](facebook.com/andrew.camacho.12))
+- Jesse Goldstein ([Facebook](facebook.com/jesse.goldstein90))
+- Matt Kraznoff ([Facebook](facebook.com/matthew.krasnoff))
+- Priyank Patel ([Facebook](facebook.com/pripats))
+- Noah Portes Chaikin ([Facebook](facebook.com/nporteschaikin))
+- Matt Spector ([Facebook](facebook.com/matt.spector.3))
+- Alexander Subhiyah ([Facebook](facebook.com/alexander.subhiyah))
+- Chris Thompson ([Facebook](facebook.com/cjthompson26))
+- Gregory Valerio ([Facebook](facebook.com/gregory.boumtjeboumtje))
+- Dan Wexler ([Facebook](facebook.com/dan.wexler.56))
 
 ## Payout
 
