@@ -1,6 +1,6 @@
 # NPCFFB
 
-A living document outlining my fantasy football league.
+A living document outlining the rules and regulations of my fantasy football league.
 
 ## Table of Contents
 
