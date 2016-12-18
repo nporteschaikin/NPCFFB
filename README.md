@@ -2,10 +2,10 @@
 
 ### Table of Contents
 
-1. [Mission Statement](#Mission-Statement)
-1. [Dues](#Dues)
-1. [Payout](#Payout)
-1. [Keepers](#Keepers)
+1. [Mission Statement](#mission-statement)
+1. [Dues](#dues)
+1. [Payout](#payout)
+1. [Keepers](#keepers)
 
 ### Mission Statement
 
@@ -22,7 +22,7 @@
 
 ### Keepers
 
-Each team is permitted to retain *two* players from the previous season to play in the upcoming season. All players are eligible to be kept, except:
+Each team is permitted to retain **two** players from the previous season to play in the upcoming season. All players are eligible to be kept, except:
 
 - Players drafted in the first round
 
