@@ -7,7 +7,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Participants](#participants)
 1. [Dues](#dues)
 1. [Awards](#award)
-1. [Draft Order](#draft-order)
+1. [Draft](#draft)
 1. [Keepers](#keepers)
 
 ## Participants
@@ -42,7 +42,11 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 | Third place | $120 |
 | Most points in regular season | $120 |
 
-## Draft Order
+## Draft
+
+The draft is held on **any date after August 15 of each year**; unanimous participation is required. 
+
+The first six draft picks are awarded to the teams ranked 6-12 at the end of the year. This is to incentivize active participation in the consolation bracket.
 
 | Rank in previous season | Draft pick |
 | --- | --- |
@@ -58,8 +62,6 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 | 10th | 4th |
 | 11th | 5th |
 | 12th | 6th |
-
-The first six draft picks are awarded to the teams ranked 6-12 at the end of the year. This is to incentivize active participation in the consolation bracket.
 
 ## Keepers
 
