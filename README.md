@@ -12,9 +12,9 @@
 
 ### Payout
 
-| Award | Amount |
+| | Amount |
 | --- | --- |
 | First place | $720 |
 | Second place | $240 |
 | Third place | $120 |
-| Most points | $120 |
+| Most points in regular season | $120 |
