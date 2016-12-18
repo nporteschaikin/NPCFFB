@@ -6,6 +6,7 @@
 1. [Dues](#dues)
 1. [Payout](#payout)
 1. [Keepers](#keepers)
+1. [Draft Order](#draft-order)
 
 ### Mission Statement
 
@@ -19,6 +20,25 @@
 | Second place | $240 |
 | Third place | $120 |
 | Most points in regular season | $120 |
+
+### Draft Order
+
+| Rank in previous season | Draft pick |
+| --- | --- |
+| 1st | 12th |
+| 2nd | 11th |
+| 3rd | 10th |
+| 4th | 9th |
+| 5th | 8th |
+| 6th | 7th |
+| 7th | 1st |
+| 8th | 2nd |
+| 9th | 3rd |
+| 10th | 4th |
+| 11th | 5th |
+| 12th | 6th |
+
+The first six draft picks are awarded to the teams ranked 6-12 at the end of the year. This is to incentivize active participation in the consolation bracket.
 
 ### Keepers
 
