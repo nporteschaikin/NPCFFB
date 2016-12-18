@@ -1,18 +1,12 @@
 # NPCFFB
 
-### Table of Contents
+## Table of Contents
 
-1. [Mission Statement](#mission-statement)
-1. [Dues](#dues)
 1. [Payout](#payout)
-1. [Keepers](#keepers)
 1. [Draft Order](#draft-order)
+1. [Keepers](#keepers)
 
-### Mission Statement
-
-### Dues
-
-### Payout
+## Payout
 
 | | Amount |
 | --- | --- |
@@ -21,7 +15,7 @@
 | Third place | $120 |
 | Most points in regular season | $120 |
 
-### Draft Order
+## Draft Order
 
 | Rank in previous season | Draft pick |
 | --- | --- |
@@ -40,7 +34,7 @@
 
 The first six draft picks are awarded to the teams ranked 6-12 at the end of the year. This is to incentivize active participation in the consolation bracket.
 
-### Keepers
+## Keepers
 
 Each team is permitted to retain **two** players from the previous season to play in the upcoming season. All players are eligible to be kept, except:
 
