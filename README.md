@@ -46,6 +46,8 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 
 The draft is held on **any date after August 15 of each year**; unanimous participation is required. 
 
+### Order
+
 The first six draft picks are awarded to the teams ranked 6-12 at the end of the year. This is to incentivize active participation in the consolation bracket.
 
 | Rank in previous season | Draft pick |
