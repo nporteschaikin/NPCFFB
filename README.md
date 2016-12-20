@@ -67,7 +67,7 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 
 Each team is permitted to retain **two** players from the previous season to play in the upcoming season. All players are eligible to be kept, except:
 
-- Players drafted in the first round
+- Players drafted in the first round.
 
 If a team choose to keep a player, the team forfeits a draft pick.
 
