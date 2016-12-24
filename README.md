@@ -7,6 +7,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Participants](#participants)
 1. [Dues](#dues)
 1. [Awards](#award)
+1. [Scoring](#scoring)
 1. [Draft](#draft)
 1. [Keepers](#keepers)
 
@@ -41,6 +42,57 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 | Second place | $240 |
 | Third place | $120 |
 | Most points in regular season | $120 |
+
+## Scoring
+
+Modifications to scoring rules are prohibited during the season and playoffs. Any modifications to scoring rules should be proposed to the league in the offseason. A modification must be voted for by nine teams to be implemented for the following year.
+
+### Offense
+
+| Action | Value |
+| --- | --- |
+| Passing yards | +0.04
+| Passing touchdowns | +4 |
+| Interceptions | -2 |
+| Rushing yards | +0.1 |
+| Rushing touchdowns | +6 |
+| Receptions | 1 |
+| Receiving yards | +0.1 |
+| Receiving touchdowns | +6 |
+| Return touchdowns | +6 |
+| Two-point conversions | +2 |
+| Fumbles lost | -2 |
+| Offensive fumble return touchdown | +6 |
+
+### Kicking
+
+| Action | Points |
+| --- | --- |
+| 0-39 yard field goal | +3 |
+| 40-49 yard field goal | +4 |
+| 50+ yard field goal | +5 |
+| 0-49 yard missed field goal | -1 |
+| PAT made | +1 |
+
+### Defense/Special Teams
+
+| Action | Points |
+| --- | --- |
+| Sack | +1 |
+| Interception | +2 |
+| Fumble recovery | +2 |
+| Touchdown | +6 |
+| Safety | +2 |
+| Block kick | +2 |
+| Kickoff and punt return touchdowns | +6 |
+| Zero points allowed | +10 |
+| 1-6 points allowed | +7 |
+| 7-13 points allowed | +4 |
+| 14-20 points allowed | +1 |
+| 28-34 points allowed | -1 |
+| 35+ points allowed | -4 |
+| Tackles for loss | +0.25 |
+| Extra point returned | +2 |
 
 ## Draft
 
