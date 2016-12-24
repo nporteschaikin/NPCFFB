@@ -66,7 +66,7 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 
 ### Kicking
 
-| Action | Points |
+| Action | Value |
 | --- | --- |
 | 0-39 yard field goal | +3 |
 | 40-49 yard field goal | +4 |
@@ -76,7 +76,7 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 
 ### Defense/Special Teams
 
-| Action | Points |
+| Action | Value |
 | --- | --- |
 | Sack | +1 |
 | Interception | +2 |
