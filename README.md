@@ -56,7 +56,7 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 | Interceptions | -2 |
 | Rushing yards | +0.1 |
 | Rushing touchdowns | +6 |
-| Receptions | 1 |
+| Receptions | +1 |
 | Receiving yards | +0.1 |
 | Receiving touchdowns | +6 |
 | Return touchdowns | +6 |
