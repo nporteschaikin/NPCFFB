@@ -31,7 +31,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 
 | Year | First place | Second place | Third place | Most points in regular season |
 | --- | --- | --- | --- | --- |
-| 2016 | Alexander Subhiyah | Chris Thompson | Moriss Bronstein | Alexander Subhiyah |
+| 2016 | Alexander Subhiyah | Chris Thompson | Morris Bronstein | Alexander Subhiyah |
 
 ## Dues
 
