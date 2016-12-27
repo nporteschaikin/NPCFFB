@@ -5,6 +5,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 ## Table of Contents
 
 1. [Participants](#participants)
+1. [Winners](#winners)
 1. [Dues](#dues)
 1. [Awards](#award)
 1. [Scoring](#scoring)
@@ -25,6 +26,12 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Chris Thompson ([Facebook](https://facebook.com/cjthompson26))
 - Gregory Valerio ([Facebook](https://facebook.com/gregory.boumtjeboumtje))
 - Dan Wexler ([Facebook](https://facebook.com/dan.wexler.56))
+
+## Winners
+
+| Year | First place | Second place | Third place | Most points |
+| --- | --- | --- | --- | --- |
+| 2016 | Alexander Subhiyah | Chris Thompson | Morris Bronstein | Alexander Subhiyah |
 
 ## Dues
 
