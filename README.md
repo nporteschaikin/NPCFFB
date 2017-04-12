@@ -7,7 +7,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Participants](#participants)
 1. [Winners](#winners)
 1. [Dues](#dues)
-1. [Awards](#award)
+1. [Awards](#awards)
 1. [Scoring](#scoring)
 1. [Draft](#draft)
 1. [Keepers](#keepers)
