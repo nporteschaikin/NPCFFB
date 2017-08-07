@@ -29,7 +29,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 
 ## Past participants
 
-- Morris Bronstein
+- Morris Bronstein (2016)
 
 ## Winners
 
