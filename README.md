@@ -107,7 +107,7 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 
 ## Draft
 
-The draft is held on **any date after August 15 of each year**; unanimous participation is required. 
+The draft is held on **any date after August 15 of each year**; unanimous participation is required.
 
 ### Order
 
@@ -119,14 +119,16 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 2nd | 11th |
 | 3rd | 10th |
 | 4th | 9th |
-| 5th | 8th |
-| 6th | 7th |
+| 5th | 7th<sup>[1](#draft-order-1)</sup> |
+| 6th | 8th<sup>[1](#draft-order-1)</sup> |
 | 7th | 1st |
 | 8th | 2nd |
 | 9th | 3rd |
 | 10th | 4th |
 | 11th | 5th |
 | 12th | 6th |
+
+<sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the 5th-place team received the 8th pick and the 6th-place team received the 7th pick.</sub>
 
 ## Keepers
 
