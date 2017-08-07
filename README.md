@@ -140,3 +140,5 @@ If a team choose to keep a player, the team forfeits a draft pick.
 - If a team chooses to keep two players drafted in the same round, or two undrafted players, the team forfeits its pick from one round earlier or the 14th round, respectively.
 - In each following year, the team forfeits a pick worth double the value of the pick forfeited in the year prior.
 - A player can no longer be kept if his value is greater than a first-round pick.
+
+Keeper selections are subject to approval by the commissioner and are due no later than a week prior to the draft.
