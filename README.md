@@ -128,7 +128,7 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 11th | 5th |
 | 12th | 6th |
 
-<sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the 5th-place team received the 8th pick and the 6th-place team received the 7th pick.</sub>
+<sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the fifth place team received the eighth pick and the sixth place team received the seventh pick.</sub>
 
 ## Keepers
 
@@ -140,7 +140,9 @@ If a team choose to keep a player, the team forfeits a draft pick.
 
 - If the player kept was drafted in the previous season, the team forfeits its pick from the same round the player was drafted in. If the player kept was undrafted, the team forfeits its pick in the 15th round.
 - If a team chooses to keep two players drafted in the same round, or two undrafted players, the team forfeits its pick from one round earlier or the 14th round, respectively.
-- In each following year, the team forfeits a pick worth double the value of the pick forfeited in the year prior.
+- In each following year, the team forfeits a pick worth double the value of the pick forfeited in the year prior.<sup>[1](#keepers-1)</sup>
 - A player can no longer be kept if his value is greater than a first-round pick.
 
 Keeper selections are subject to approval by the commissioner and are **due no later than a week prior to the draft**.
+
+<sub id="keepers-1"><sup>1</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; i.e. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
