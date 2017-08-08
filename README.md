@@ -67,13 +67,17 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 | Interceptions | -2 |
 | Rushing yards | +0.1 |
 | Rushing touchdowns | +6 |
-| Receptions | +1 |
+| Rushing first downs | +0.5<sup>[1](#scoring-offense-1)</sup> |
+| Receptions | +0.5<sup>[1](#scoring-offense-1)</sup> |
 | Receiving yards | +0.1 |
 | Receiving touchdowns | +6 |
+| Receiving first downs | +0.5<sup>[1](#scoring-offense-1)</sup> |
 | Return touchdowns | +6 |
 | Two-point conversions | +2 |
 | Fumbles lost | -2 |
 | Offensive fumble return touchdown | +6 |
+
+<sub id="scoring-offense-1"><sup>1</sup> Prior to 2017 season, one point was awarded per reception, and zero points were awarded per rushing and receiving first downs.
 
 ### Kicking
 
