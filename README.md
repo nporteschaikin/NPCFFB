@@ -17,7 +17,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Jordan Brickman ([Facebook](https://facebook.com/jabrickman914))
 - Andrew Camacho  ([Facebook](https://facebook.com/andrew.camacho.12))
 - Jesse Goldstein ([Facebook](https://facebook.com/jesse.goldstein90))
-- Matt Kraznoff ([Facebook](https://facebook.com/matthew.krasnoff))
+- Pat Effinger ([Facebook](https://facebook.com/pat.effinger))
 - Benjamin Litvin ([Facebook](https://facebook.com/benjamin.litvin.1))
 - Priyank Patel ([Facebook](https://facebook.com/pripats))
 - Noah Portes Chaikin ([Facebook](https://facebook.com/nporteschaikin))
@@ -30,6 +30,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 ## Past participants
 
 - Morris Bronstein (2016)
+- Matt Kraznoff (2016-2017)
 
 ## Winners
 
