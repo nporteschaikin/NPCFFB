@@ -152,3 +152,45 @@ If a team choose to keep a player, the team forfeits a draft pick.
 Keeper selections are subject to approval by the commissioner and are **due no later than a week prior to the draft**.
 
 <sub id="keepers-1"><sup>1</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; i.e. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
+
+### History
+
+| Player | 2017 | 2018 |
+| --- | --- | --- |
+| Adams, Davante | Benjamin Litvin (15th) | Gregory Valerio (8th) |
+| Ajayi, Jay | Andrew Camacho (9th) | |
+| Bell, LeVeon | Matt Kraznoff (2nd) | |
+| Bryant, Martavis | Gregory Valerio (15th) | |
+| Collins, Alex | | Jesse Goldstein (15th) |
+| Cook, Dalvin | | Noah Portes Chaikin (2nd) |
+| Crowder, Jamison | Jesse Goldstein (14th) | |
+| Drake, Kenyan | | Matt Spector (15th) |
+| Edelman, Julian | | Alexander Subhiyah (15th) |
+| Eifert, Tyler | Jordan Brickman<sub id="keepers-history-1"><sup>1</sup> | |
+| Evans, Mike | Alexander Subhiyah (2nd) | |
+| Fournette, Leonard | | Benjamin Litvin (2nd) |
+| Freeman, Devonta | Priyank Patel (2nd) | |
+| Garoppolo, Jimmy | | Jordan Brickman (15th) |
+| Gordon, Josh | | Alexander Subhiyah (14th) |
+| Gordon, Melvin | Chris Thompson (15th) | Chris Thompson (8th) |
+| Hill, Tyreek | Gregory Valerio (14th) | |
+| Hopkins, DeAndre | | Andrew Camacho (3rd) |
+| Howard, Jordan | Chris Thompson (7th) | Chris Thompson (4th) |
+| Hunt, Kareem | | Jordan Brickman (2nd) |
+| Kamara, Alvin | | Gregory Valerio (13th) |
+| Mariota, Marcus | Jordan Brickman (14th) | |
+| Matthews, Rishad | Matt Spector<sub id="keepers-history-1"><sup>1</sup> |
+| McCoy, LeSean | Dan Wexler (2nd) | |
+| McKinnon, Jerrick | | Pat Effinger (15th) |
+| Mixon, Joe | | Noah Portes Chaikin (4nd) |
+| Murray, Demarco | Alexander Subhiyah (5th) | |
+| Powell, Bilal | Jesse Goldstein (10th) | |
+| Pryor Sr., Terrelle | Dan Wexler (15th) | |
+| Ryan, Matt | Matt Spector (15th) | |
+| Thielan, Adam | | Jesse Goldstein (8th) |
+| Thomas, Michael | Matt Kraznoff (10th) | Pat Effinger (5th) |
+| Wentz, Carson | | Andrew Camacho (15th) |
+| Winston, Jameis | Benjamin Litvin<sub id="keepers-history-1"><sup>1</sup> | |
+| Woods, Robert | | Benjamin Litvin (15th) |
+
+<sub id="keepers-history-1"><sup>1</sup> Due to poor record-keeping, it is unclear where these players were drafted in 2017.
