@@ -60,7 +60,7 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 
 ## Scoring
 
-Modifications to scoring rules are prohibited during the season and playoffs; any modifications must be proposed to the league in the offseason. A modification must be voted for by nine teams to be implemented for the following year.
+Modifications to scoring rules can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the following year.
 
 ### Offense
 
