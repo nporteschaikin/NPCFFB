@@ -147,6 +147,8 @@ Waiver priority is determined by **free-agent acquisition budget (FAAB)** biddin
 - The team with the highest bid at the end of the waiver period wins the player,<sup>[2](#waivers-2)</sup> and the winning team's bid price is deducted from their remaning FAAB for the year. Losing bids are not deducted from the team's FAAB.
 - Between each waiver period, unclaimed players are available on a first-come, first-serve basis at no cost to the acquiring team's FAAB.
 
+**Trading money from a team's FAAB is permitted.** To include FAAB money in a trade, the commissioner must be notified before the trade is completed; the commissioner will confirm the transaction with both teams and, upon approval, adjust budgets accordingly.
+
 <sub id="waivers-1"><sup>1</sup> Before 2019, a continual rolling list was used to determine waiver priority.</sub><br />
 <sub id="waivers-2"><sup>2</sup> If two teams bid the same price for a player, claims are processed in reverse order of standings and each successful claim moves a team to the end of the waiver priority list.</sub>
 
