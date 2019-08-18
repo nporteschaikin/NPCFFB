@@ -60,7 +60,7 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 
 ## Scoring
 
-Modifications to scoring rules can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the following year.
+Modifications to scoring rules can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the beginning of the next calendar year.
 
 ### Offense
 
@@ -115,7 +115,7 @@ Modifications to scoring rules can be proposed at any time; it must be voted for
 
 ## Roster positions
 
-Modifications to roster positions can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the following year.
+Modifications to roster positions can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the beginning of the next calendar year.
 
 ### Offense
 
