@@ -125,7 +125,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 | Wide receiver (WR) | 2 |
 | Running back (RB) | 2 |
 | Tight end (TE) | 1 |
-| Wide receive/running back/tight end (W/R/T) | 1 |
+| Wide receiver/running back/tight end (W/R/T) | 1 |
 | Kicker (K) | 1 |
 
 ### Defense
