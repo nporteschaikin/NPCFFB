@@ -140,11 +140,11 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 
 ## Waivers
 
-Waiver priority is determined by **free-agent acquisition budget (FAAB)** bidding<sup>[1](#waivers-1)</sup>.
+Waiver priority is determined by **free-agent acquisition budget (FAAB)** bidding.<sup>[1](#waivers-1)</sup>
 
 - Each team is allocated a **$200** FAAB every year to bid on unclaimed players that are in waivers.
 - Each week, a player's waiver period **begins at his game's start time and ends on Tuesday night**. In that time, teams can blindly bid to claim the player off waivers. $0 dollar bids are permitted.
-- The team with the highest bid at the end of the waiver period wins the player<sup>[2](#waivers-2)</sup>, and the winning team's bid price is deducted from their remaning FAAB for the year. Losing bids are not deducted from the team's FAAB.
+- The team with the highest bid at the end of the waiver period wins the player,<sup>[2](#waivers-2)</sup> and the winning team's bid price is deducted from their remaning FAAB for the year. Losing bids are not deducted from the team's FAAB.
 - Between each waiver period, unclaimed players are available on a first-come, first-serve basis at no cost to the acquiring team's FAAB.
 
 <sub id="waivers-1"><sup>1</sup> Before 2019, a continual rolling list was used to determine waiver priority.</sub><br />
