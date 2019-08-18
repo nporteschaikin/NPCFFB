@@ -9,6 +9,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Dues](#dues)
 1. [Awards](#awards)
 1. [Scoring](#scoring)
+1. [Roster positions](#roster-positions)
 1. [Draft](#draft)
 1. [Keepers](#keepers)
 
@@ -111,6 +112,34 @@ Modifications to scoring rules are prohibited during the season and playoffs; an
 | 35+ points allowed | -4 |
 | Tackles for loss | +0.25 |
 | Extra point returned | +2 |
+
+## Roster positions
+
+Modifications to roster positions can be proposed at any time; it must be voted for by nine teams to be approved. If a modification is approved, it does not take effect until the following year.
+
+### Offense
+
+| Position | Count |
+| --- | --- |
+| Quarterback (QB) | 1 |
+| Wide receiver (WR) | 2 |
+| Running back (RB) | 2 |
+| Tight end (TE) | 1 |
+| Wide receive/running back/tight end (W/R/T) | 1 |
+| Kicker (K) | 1 |
+
+### Defense
+
+| Position | Count |
+| --- | --- |
+| Team defense/special teams (D/ST) | 1 |
+
+### Inactive
+
+| Position | Count |
+| --- | --- |
+| Bench (BN) | 6 |
+| Injured reserve (IR) | 1 |
 
 ## Draft
 
