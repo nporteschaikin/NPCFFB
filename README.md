@@ -45,7 +45,9 @@ A living document outlining the rules and regulations of my fantasy football lea
 
 Each year, a fee is due **two weeks before the draft**. This is used entirely to cover [awards](#awards).
 
-The fee is currently **$100**. A vote will be held yearly to determine the fee for the year; unanimous consent is required to alter the fee. If the fee is altered, a subsequent vote will be held to determine awards.
+The fee is currently **$140**.<sup>[1](#dues-1)</sup> A vote will be held yearly to determine the fee for the year; unanimous consent is required to alter the fee. If the fee is altered, a subsequent vote will be held to determine awards.
+
+<sub id="dues-1"><sup>1</sup> Prior to the 2019 season, the fee was $100.
 
 ## Awards
 
@@ -53,10 +55,10 @@ Awards are paid out on the **Tuesday immediately following Week 16**.
 
 | | Amount |
 | --- | --- |
-| First place | $720 |
-| Second place | $240 |
-| Third place | $120 |
-| Most points in regular season | $120 |
+| First place | $1,000 |
+| Second place | $340 |
+| Third place | $170 |
+| Most points in regular season | $170 |
 
 ## Scoring
 
