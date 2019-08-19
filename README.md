@@ -11,6 +11,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Scoring](#scoring)
 1. [Roster positions](#roster-positions)
 1. [Draft](#draft)
+1. [Waivers](#waivers)
 1. [Keepers](#keepers)
 
 ## Participants
@@ -165,6 +166,20 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 12th | 6th |
 
 <sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the fifth place team received the eighth pick and the sixth place team received the seventh pick.</sub>
+
+## Waivers
+
+Waiver priority is determined by **free-agent acquisition budget (FAAB)** bidding.<sup>[1](#waivers-1)</sup>
+
+- Each team is allocated a **$200** FAAB every year to bid on unclaimed players that are in waivers.
+- Each week, a player's waiver period **begins at his game's start time and ends on Tuesday night**. In that time, teams can blindly bid to claim the player off waivers. $0 bids are permitted.
+- The team with the highest bid at the end of the waiver period wins the player,<sup>[2](#waivers-2)</sup> and the winning team's bid price is deducted from their remaning FAAB for the year. Losing bids are not deducted from the team's FAAB.
+- Between each waiver period, unclaimed players are available on a first-come, first-serve basis at no cost to the acquiring team's FAAB.
+
+**Trading money from a team's FAAB is permitted.** To include FAAB money in a trade, the commissioner must be notified before the trade is completed; the commissioner will confirm the transaction with both teams and, upon approval, adjust budgets accordingly.
+
+<sub id="waivers-1"><sup>1</sup> Before 2019, a continual rolling list was used to determine waiver priority.</sub><br />
+<sub id="waivers-2"><sup>2</sup> If two teams bid the same price for a player, claims are processed in reverse order of standings and each successful claim moves a team to the end of the waiver priority list.</sub>
 
 ## Keepers
 
