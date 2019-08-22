@@ -169,9 +169,14 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 11th | 5th |
 | 12th | 6th |
 
-Draft picks can be traded for other draft picks and for keepers prior to the pick being used during the draft.
-
 <sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the fifth place team received the eighth pick and the sixth place team received the seventh pick.</sub>
+
+### Trades
+
+Trading draft picks and keepers before the draft is permitted.
+
+- The window for making trades before the draft **begins after keeper selections are confirmed and ends one hour before the draft**.
+- Trades must include an equal number of picks and/or keepers from each team, to ensure teams cannot draft more players than available roster spots.
 
 ## Waivers
 
