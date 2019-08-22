@@ -148,7 +148,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 
 ## Draft
 
-The draft is held on **any date after August 15 of each year**; unanimous participation is required.
+The draft is scheduled yearly to take place on **any date after August 15 and before the date of the first regular season game**; unanimous participation is required.
 
 ### Order
 
@@ -170,6 +170,13 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 12th | 6th |
 
 <sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the fifth place team received the eighth pick and the sixth place team received the seventh pick.</sub>
+
+### Trades
+
+Trading draft picks and keepers before the draft is permitted.
+
+- The window for making trades before the draft **begins after keeper selections are confirmed and ends one hour before the draft**.
+- Trades must include an equal number of picks and/or keepers from each team, to ensure teams cannot draft more players than available roster spots.
 
 ## Waivers
 
