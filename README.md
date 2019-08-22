@@ -148,7 +148,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 
 ## Draft
 
-The draft is held on **any date after August 15 of each year**; unanimous participation is required.
+The draft is scheduled yearly to take place on **any date after August 15 of each year**; unanimous participation is required.
 
 ### Order
 
@@ -168,6 +168,8 @@ The first six draft picks are awarded to the teams ranked 6-12 at the end of the
 | 10th | 4th |
 | 11th | 5th |
 | 12th | 6th |
+
+Draft picks can be traded for other draft picks and for keepers prior to the pick being used during the draft.
 
 <sub id="draft-order-1"><sup>1</sup> Prior to 2018 draft, the fifth place team received the eighth pick and the sixth place team received the seventh pick.</sub>
 
