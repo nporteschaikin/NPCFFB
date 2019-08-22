@@ -148,7 +148,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 
 ## Draft
 
-The draft is scheduled yearly to take place on **any date after August 15 of each year**; unanimous participation is required.
+The draft is scheduled yearly to take place on **any date after August 15 and before the date of the first regular season game**; unanimous participation is required.
 
 ### Order
 
