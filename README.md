@@ -21,10 +21,10 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Benjamin Litvin ([Facebook](https://facebook.com/benjamin.litvin.1))
 - Chris Thompson ([Facebook](https://facebook.com/cjthompson26))
 - Dan Wexler ([Facebook](https://facebook.com/dan.wexler.56))
+- Frederick Amstutz ([Facebook](https://facebook.com/frederick.amstutz))
 - Gregory Valerio ([Facebook](https://facebook.com/gregory.boumtjeboumtje))
 - Jesse Goldstein ([Facebook](https://facebook.com/jesse.goldstein90))
 - Jordan Brickman ([Facebook](https://facebook.com/jabrickman914))
-- Matt Spector ([Facebook](https://facebook.com/matt.spector.3))
 - Noah Portes Chaikin ([Facebook](https://facebook.com/nporteschaikin))
 - Pat Effinger ([Facebook](https://facebook.com/pat.effinger))
 - Priyank Patel ([Facebook](https://facebook.com/pripats))
@@ -33,6 +33,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 
 - Morris Bronstein (2016)
 - Matt Kraznoff (2016-2017)
+- Matt Spector (2016-2019)
 
 ## Winners
 
