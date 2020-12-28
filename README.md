@@ -43,6 +43,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 | 2017 | Benjamin Litvin | Priyank Patel | Matt Spector | Benjamin Litvin |
 | 2018 | Alexander Subhiyah | Gregory Valerio | Dan Wexler | Gregory Valerio |
 | 2019 | Priyank Patel | Alexander Subhiyah | Benjamin Litvin | Alexander Subhiyah |
+| 2020 | Priyank Patel | Benjamin Litvin | Gregory Valerio | Jordan Brickman |
 
 ## Dues
 
