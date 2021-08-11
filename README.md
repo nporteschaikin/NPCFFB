@@ -197,7 +197,7 @@ Waiver priority is determined by **free-agent acquisition budget (FAAB)** biddin
 
 ## Keepers
 
-Each team is permitted to retain **two** players from the previous season to play in the upcoming season. All players are eligible to be kept, except:
+Each team is permitted to retain **three** players<sup>[1](#keepers-1)</sup> from the previous season to play in the upcoming season. All players are eligible to be kept, except:
 
 - Players drafted in the first round.
 
@@ -210,4 +210,5 @@ If a team choose to keep a player, the team forfeits a draft pick.
 
 Keeper selections are subject to approval by the commissioner and are **due no later than a week prior to the draft**.
 
-<sub id="keepers-1"><sup>1</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; i.e. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
+<sub id="keepers-1"><sup>1</sup> Prior to the 2021 season, teams were permitted to retain two players.</sub><br />
+<sub id="keepers-2"><sup>2</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; i.e. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
