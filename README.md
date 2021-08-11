@@ -210,5 +210,7 @@ If a team choose to keep a player, the team forfeits a draft pick.
 
 Keeper selections are subject to approval by the commissioner and are **due no later than a week prior to the draft**.
 
+Modifications to keeper rules can be proposed at any time; changes must be voted for by nine teams to be approved.
+
 <sub id="keepers-1"><sup>1</sup> Prior to the 2021 season, teams were permitted to retain two players.</sub><br />
 <sub id="keepers-2"><sup>2</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; i.e. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
