@@ -133,6 +133,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 | Running back (RB) | 2 |
 | Tight end (TE) | 1 |
 | Quarterback/wide receiver/running back/tight end (Q/W/R/T)<sup>[1](#roster-positions-1)</sup> | 1 |
+| Wide receiver/running back/tight end (W/R/T)<sup>[1](#roster-positions-2)</sup> | 1 |
 | Kicker (K) | 1 |
 
 ### Defense
@@ -148,7 +149,8 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 | Bench (BN) | 6 |
 | Injured reserve (IR) | 1 |
 
-<sub id="roster-positions-1"><sup>1</sup> Prior to 2020, the flex (Q/W/R/T) position did not permit quarterbacks.</sub>
+<sub id="roster-positions-1"><sup>1</sup> Prior to 2020, the Q/W/R/T position did not permit quarterbacks.</sub>
+<sub id="roster-positions-2"><sup>2</sup> Prior to 2022, there was only one flex position.</sub>
 
 ## Draft
 
