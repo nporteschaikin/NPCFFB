@@ -13,6 +13,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 1. [Draft](#draft)
 1. [Waivers](#waivers)
 1. [Keepers](#keepers)
+1. [Playoffs](#playoffs)
 
 ## Participants
 
@@ -217,3 +218,7 @@ Modifications to keeper rules can be proposed at any time; changes must be voted
 
 <sub id="keepers-1"><sup>1</sup> Prior to the 2021 season, teams were permitted to retain two players.</sub><br />
 <sub id="keepers-2"><sup>2</sup> If the pick forfeited for a player is an odd round number, the pick forefeited in the following draft should be rounded down in value; e.g. the fifth pick is forfeited for a player whose value was a ninth-round pick in the previous draft.</sub>
+
+## Playoffs
+
+The playoffs occur in the three weeks after the regular season concludes. Playoff reseeding will adjust the second round matchups so the highest-seeded team will play the lowest ranked team. Playoff reseeding will occur when there is an upset in the first round of the playoffs.
