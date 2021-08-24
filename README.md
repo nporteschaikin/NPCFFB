@@ -26,8 +26,8 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Gregory Valerio ([Facebook](https://facebook.com/gregory.boumtjeboumtje))
 - Jesse Goldstein ([Facebook](https://facebook.com/jesse.goldstein90))
 - Jordan Brickman ([Facebook](https://facebook.com/jabrickman914))
-- Noah Portes Chaikin ([Facebook](https://facebook.com/nporteschaikin))
 - Michael Swyer ([Facebook](https://facebook.com/michael.swyer))
+- Noah Portes Chaikin ([Facebook](https://facebook.com/nporteschaikin))
 - Priyank Patel ([Facebook](https://facebook.com/pripats))
 
 ## Past participants
