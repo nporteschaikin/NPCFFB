@@ -26,7 +26,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Jesse Goldstein ([Facebook](https://facebook.com/jesse.goldstein90))
 - Jordan Brickman ([Facebook](https://facebook.com/jabrickman914))
 - Noah Portes Chaikin ([Facebook](https://facebook.com/nporteschaikin))
-- Pat Effinger ([Facebook](https://facebook.com/pat.effinger))
+- Michael Swyer ([Facebook](https://facebook.com/michael.swyer))
 - Priyank Patel ([Facebook](https://facebook.com/pripats))
 
 ## Past participants
@@ -34,6 +34,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 - Morris Bronstein (2016)
 - Matt Kraznoff (2016-2017)
 - Matt Spector (2016-2019)
+- Pat Effinger (2017-2020)
 
 ## Winners
 
