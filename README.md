@@ -134,7 +134,7 @@ Modifications to roster positions can be proposed at any time; it must be voted 
 | Running back (RB) | 2 |
 | Tight end (TE) | 1 |
 | Quarterback/wide receiver/running back/tight end (Q/W/R/T)<sup>[1](#roster-positions-1)</sup> | 1 |
-| Wide receiver/running back/tight end (W/R/T)<sup>[1](#roster-positions-2)</sup> | 1 |
+| Wide receiver/running back/tight end (W/R/T)<sup>[1](#roster-positions-2)</sup> | 2 |
 | Kicker (K) | 1 |
 
 ### Defense
