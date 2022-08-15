@@ -46,6 +46,7 @@ A living document outlining the rules and regulations of my fantasy football lea
 | 2018 | Alexander Subhiyah | Gregory Valerio | Dan Wexler | Gregory Valerio |
 | 2019 | Priyank Patel | Alexander Subhiyah | Benjamin Litvin | Alexander Subhiyah |
 | 2020 | Priyank Patel | Benjamin Litvin | Gregory Valerio | Jordan Brickman |
+| 2021 | Jordan Brickman | Gregory Valerio | Benjamin Litvin | Jordan Brickman |
 
 ## Dues
 
